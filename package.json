@@ -1,0 +1,12 @@
+{
+  "name": "auxiliary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ui": "cd packages/auxiliary-ui & pnpm dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
